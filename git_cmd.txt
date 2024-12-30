@@ -9,3 +9,5 @@ git remote -v
 git remote set url
 git push origin master 
 git status
+
+this is some new chnages
